@@ -1,0 +1,74 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 31, 2023 - 23:46:46
+Django version 4.2.3, using settings 'storefront.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+[31/Jul/2023 23:46:47] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:46:49] "GET /store/products/706 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:49] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:46:49] "GET /store/products/448 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:49] "GET /store/products/703 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:50] "GET /store/products/975 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:50] "GET /store/products/181 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:50] "GET /store/products/928 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:50] "GET /store/products/54 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:51] "GET /store/products/222 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:51] "GET /store/products/844 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:51] "GET /store/products/178 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:51] "GET /store/products/789 HTTP/1.1" 301 0
+[31/Jul/2023 23:46:52] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:24] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:25] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:25] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:25] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:25] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:25] "GET /store/products/775 HTTP/1.1" 301 0
+[31/Jul/2023 23:47:26] "GET /store/products/?collection_id=6 HTTP/1.1" 200 2690
+[31/Jul/2023 23:47:26] "GET /store/products/87 HTTP/1.1" 301 0
+[31/Jul/2023 23:47:26] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:26] "GET /store/products/?collection_id=4 HTTP/1.1" 200 2620
+[31/Jul/2023 23:47:26] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:26] "GET /store/products/?collection_id=3 HTTP/1.1" 200 2832
+[31/Jul/2023 23:47:26] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:27] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:27] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:27] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:28] "GET /store/products/?collection_id=4 HTTP/1.1" 200 2620
+[31/Jul/2023 23:47:28] "POST /store/carts/53fa9fe4-7f1f-460a-98a6-7c59a804c3d5/items/ HTTP/1.1" 201 41
+[31/Jul/2023 23:47:28] "GET /store/products/?collection_id=6 HTTP/1.1" 200 2690
+[31/Jul/2023 23:47:28] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:28] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:28] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "POST /store/carts/b16555cb-21a2-48c5-bb2a-3e03f4ce6014/items/ HTTP/1.1" 201 41
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "GET /store/products/?collection_id=5 HTTP/1.1" 200 2675
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "GET /store/products/?collection_id=2 HTTP/1.1" 200 52
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "GET /store/products/506 HTTP/1.1" 301 0
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "GET /store/products/?collection_id=4 HTTP/1.1" 200 2620
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
+[31/Jul/2023 23:47:29] "POST /store/carts/ HTTP/1.1" 201 72
